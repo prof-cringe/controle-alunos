@@ -1,0 +1,21 @@
+Calabrezo de Souza
+101
+2
+Fisica
+10 5 
+7.5
+Matematica
+3 8 
+5
+Elizabeth Balthory
+102
+3
+Geografia
+5 9 
+7
+Matematica
+9 8 
+8.5
+Historia
+4 7 
+5.5
